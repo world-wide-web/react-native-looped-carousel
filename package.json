@@ -1,13 +1,19 @@
 {
-  "name": "react-native-looped-carousel",
-  "version": "0.0.12",
+  "name": "react-native-slides",
+  "version": "0.0.2",
   "description": "Looped carousel for React Native",
   "author": "Phil Rukin <philipp@rukin.me> (http://rukin.me)",
-  "contributors": [{
-    "name": "Sergey Pronin",
-    "email": "sergey@pronin.me"
-  }],
-  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "world-wide-web",
+      "email": "world-wide-web@foxmail.com>"
+    },
+    {
+      "name": "rocman",
+      "email": "rocman@vip.qq.com"
+    }
+  ],
+  "main": "slides.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
